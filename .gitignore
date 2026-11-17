@@ -1,0 +1,17 @@
+# R e RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+Rplots.pdf
+
+# Bases da RAIS: têm mais de 100 MB e não cabem no GitHub (ver dados/LEIA-ME.md)
+dados/dados_rais_rs_2010_2024_bruto.rds
+dados/dados_rais_rs_2010_2024.rds
+dados/dados_rais_rs_2010_2024_filtrado.rds
+
+# Arquivos do sistema e temporários do Office
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
