@@ -1,4 +1,4 @@
-install.packages(c("fixest", "plm", "modelsummary", "flextable", "officer", "sf", "writexl", "ragg", "jsonlite", "bit64"))
+
 
 # =============================================================================
 # executar_tudo.R: roda as etapas do trabalho, na ordem, a partir de dados/
